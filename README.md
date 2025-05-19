@@ -51,6 +51,12 @@ Ces fichiers sont créés par un script de préparation :
 - `interaction.txt`
 
 ---
+## Création du fichier bait.txt
+
+- **IP_name** : identifiant unique de chaque expérience d’IP (doit correspondre aux colonnes MS/MS count dans MaxQuant sans le préfixe).
+- **bait_name** : nom du bait expérimental (ex. : Icos_L, Rank_L…).
+- **T/C** : `T` pour *test*, `C` pour *contrôle* (ex. : IgG).
+
 
 ##  Lancement de SAINTq
 
