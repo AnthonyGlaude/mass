@@ -58,8 +58,9 @@ Utiliser WSL pour exécuter la commande suivante dans le répertoire contenant S
 
 ```bash
 ./SAINTexpress-spc ../interaction.txt ../prey.txt ../bait.txt
-
-
+```
+---
+---
 ## Analyse de l’interactome et enrichissement fonctionnel
 
 Ce script Python permet d’analyser les résultats de l’interactome obtenus avec SAINTq en combinant :
