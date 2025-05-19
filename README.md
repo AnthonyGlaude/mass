@@ -90,11 +90,3 @@ Ce script Python permet d’analyser les résultats de l’interactome obtenus a
 - **Score STRING ≥ 400** (correspond à 0.4)
 
 ---
-
-### Exemple d’exécution
-
-Ce script peut être exécuté tel quel après modification des chemins des fichiers :
-
-```bash
-python analyse_interactome.py
-
