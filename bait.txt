@@ -1,0 +1,8 @@
+1_ctrl_IgG_R_Slot1-37_1_24845	ctrl_IgG	C
+1_Icos_FC_Slot1-41_1_24855	Icos_FC	T
+1_Icos_L_Slot1-39_1_24850	Icos_L	T
+1_Rank_L_Slot1-43_1_24860	Rank_L	T
+8_ctrl_IgG_R_Slot1-38_1_24847	ctrl_IgG	C
+8_Icos_FC_Slot1-42_1_24857	Icos_FC	T
+8_Icos_L_Slot1-40_1_24852	Icos_L	T
+8_Rank_L_Slot1-44_1_24862	Rank_L	T
