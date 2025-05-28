@@ -3,7 +3,7 @@ import pandas as pd
 # Chemins des fichiers
 input_file = r"C:\Users\Anthony\Documents\Maxquant\Mass_spect\sophie_roux\raw_data\combined\txt\proteinGroups.txt"
 filtered_file = r"C:\Users\Anthony\Documents\Saintq\data\proteinGroups_filtered.tsv"
-bait_file = r"C:\Users\Anthony\Documents\Saintq\data\bait.txt"  # Ton bait.txt déjà existant
+bait_file = r"C:\Users\Anthony\Documents\Saintq\data\bait.txt"  #  bait.txt déjà existant
 interaction_file = r"C:\Users\Anthony\Documents\Saintq\data\interaction.txt"
 prey_file = r"C:\Users\Anthony\Documents\Saintq\data\prey.txt"
 
